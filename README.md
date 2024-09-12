@@ -1,3 +1,2 @@
-- 👋 Olá me chamo Antônio Augusto sou auto didata e estudo por conta própria 
-- 👀 Estou aqui para aprender tenho interesses em programação 
-- 🌱 Atualmente estou estudando (Python,html bem comojavascriptI )e um pouco de Banco de dados
+Olá me chamo Antônio Augusto tenho 57 anos,sou novo por aqui,estudante por conta própria autodidata por natureza,já desempenhei várias outras funções mas sempre estive ligado a máquinas em geral no que sempre dependi de saber fazer funcionar seja da forma que fosse sendo hardware ou software,minha última função foi como  músico tb tendo que programar alguns softwares relacionados a música no geral daí a curiosidade de saber a fundo como as coisas funcionam por dentro , tudo que sei aprendi fuçando"mexendo em tudo") ,estou aqui para aprender tenho interesses em programação no geral.
+Atualmente estou estudando Python por entender que é a linguagem qua a partir dela consigo nentender um pouco das outras ,tb sei um pouco html bem como javascriptI e um pouco de Banco de dados acabei de migrar para o ubuntu depois de vários anos no windows
