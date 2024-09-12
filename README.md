@@ -1,0 +1,3 @@
+- 👋 Olá me chamo Antônio Augusto sou auto didata e estudo por conta própria 
+- 👀 Estou aqui para aprender tenho interesses em programação 
+- 🌱 Atualmente estou estudando (Python,html bem comojavascriptI )e um pouco de Banco de dados
